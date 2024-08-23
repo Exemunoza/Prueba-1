@@ -1,0 +1,17 @@
+
+#text1{
+    background-color: mediumorchid
+}
+
+#text2{
+    background-color: coral;  
+    width:50%; 
+    display:none
+}
+#caja2 {
+    width: 100%; /* o cualquier otro valor de ancho que desees */
+  }
+
+#img{
+    width: 20%
+}
